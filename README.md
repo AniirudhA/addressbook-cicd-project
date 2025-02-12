@@ -8,6 +8,7 @@ testassdad
 this is my first upate hi this is my first update
 ollllaaallaaa
 no no no 
+Not updating at the jenkins side with POLL SCM
 hello 
 hi
 this is my final repo adsadad
