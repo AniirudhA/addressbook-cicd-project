@@ -1,28 +1,8 @@
 THis is the readme content and let me update and we are learning.....updated content
 Hello Hello
 ##Addressbook Tutoriall lets learn my edit my change change my first jenkinsfilehhhh
-this is test adasdasdsad
-this is our first change and change and eit test asdasdsdasdasd
-this is our new chnage this sdassaasasdasdasaasd
-testassdad
-this is my first upate hi this is my first update
-ollalalalal
-heloo helooo hahahaha
 
-ollllaaallaaa
-checking the updates
-Hello
-Hello
-no no no 
-Not updating at the jenkins side with POLL SCM
-hello 
-hi
-this is my final repo adsadad
-this is the update
-this is newipdate
-hi this is new change
-==================== d
-ddooiouo
+========================
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how to get started - not an example on how application should be
 designed. Please note this example uses and requires Java 8 to work..
